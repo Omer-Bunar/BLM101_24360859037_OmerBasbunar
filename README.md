@@ -1,6 +1,6 @@
 # BLM101_24360859037_OmerBasbunar
 BLM101 Ders Projesi
-# Proje Raporu: Mantık Devresi Simülatörü
+# Proje Raporu: Veri Manipülasyonu ve Mantık Kapıları
 
 **Ders:** Bilgisayar Mimarisi
 **Konu:** Mantık Kapıları ve Doğruluk Tablosu
