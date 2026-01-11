@@ -6,7 +6,7 @@ BLM101 Ders Projesi
 **Konu:** Mantık Kapıları ve Doğruluk Tablosu
 
 ### 1. Projenin Amacı
-Bu ödevde, derste işlediğimiz temel mantık kapılarının (AND, OR, NOT, XOR) çalışma mantığını Python diliyle simüle eden bir program yazdım. Amacım, kullanıcının seçtiği kapıya göre işlem yapan ve istenilen özel bir mantıksal ifadenin doğruluk tablosunu (Truth Table) otomatik oluşturan bir araç geliştirmekti.
+Bu ödevde, derste işlediğimiz temel mantık kapılarının (AND, OR, NOT, XOR) çalışma mantığını Python diliyle simüle eden bir program yazdım. Amacım, kullanıcının seçtiği kapıya göre işlem yapan ve istenilen özel bir mantıksal ifadenin doğruluk tablosunu otomatik oluşturan bir araç geliştirmekti.
 
 ### 2. Kodun Çalışma Mantığı
 Programı yazarken hazır kütüphaneler kullanmak yerine, konuyu daha iyi kavramak için temel algoritma yapılarını (if-else, döngüler) tercih ettim. Program iki ana bölümden oluşuyor:
