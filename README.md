@@ -26,4 +26,4 @@ Burada kullanıcıdan iki adet giriş (0 veya 1) alıyorum.
 
 ### 3. Neden Bu Yöntemi Seçtim?
 Kodun herkes tarafından anlaşılabilir olması ve dersin içeriğine uygun olması için bit farklı operatörler veya karmaşık fonksiyonlar yerine, adım adım işleyen bir yapı kurdum. Bu sayede program hem hatasız çalışıyor hem de mantık kapılarının çalışma prensibini açıkça gösteriyor.
-PROJE VİDEOSU YOUTUBE LİNKİ https://youtu.be/4w85UWltXgg
+                 PROJE VİDEOSU YOUTUBE LİNKİ https://youtu.be/4w85UWltXgg
